@@ -25,8 +25,8 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png?raw=true" alt="powerbi" width="40" height="40" />
-<img src="assets/powerapps.png" alt="powerapps" width="40" height="40" />
-<img src="assets/powerautomate.png" alt="powerautomate" width="40" height="40" />
+<img src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba" alt="powerapps" width="40" height="40" />
+<img src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8" alt="powerautomate" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/sap.png" alt="sap" width="40" height="40" />
 
