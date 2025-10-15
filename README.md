@@ -42,12 +42,12 @@
   
   <!-- Power Apps -->
   <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pnp/media/main/icons/product-icons/PowerApps-Colored.png" alt="powerapps" width="40" height="40"/>
+    <img src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba" alt="powerapps" width="40" height="40"/>
   </a>
   
   <!-- Power Automate -->
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pnp/media/main/icons/product-icons/PowerAutomate-Colored.png" alt="powerautomate" width="40" height="40"/>
+    <img src="https://play-lh.googleusercontent.com/aeXs0qriXwmHVWtq9u4zVUO6SifULKtJOQdtBg6wDQqaNEaaJKl6b2oiABMmHn6yLH8" alt="powerautomate" width="40" height="40"/>
   </a>
   
   <!-- Excel -->
