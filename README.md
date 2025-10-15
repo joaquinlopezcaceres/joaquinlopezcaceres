@@ -20,7 +20,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
 </p>
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
